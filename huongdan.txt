@@ -1,4 +1,4 @@
-CÁCH THỨ NHẤT
+
 Đầu tiên gõ CMD vào ô tìm kiếm, sau đó mở CMD với quyền Run as administratror
 
 sc config LicenseManager start= auto & net start LicenseManager
